@@ -40,8 +40,8 @@ This is a responsive web-based application that allows users to search, check av
 1. Install **XAMPP**
 2. Move the project folder to `htdocs`
 3. Start Apache and MySQL from XAMPP
-4. Import the `hotel_booking.sql` file into **phpMyAdmin**
-5. Open your browser and visit:
+4. Import the `hotel.sql` file into **phpMyAdmin**
+5. Open your browser and visit
 
 
 ## 🎥 Video
